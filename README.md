@@ -8,6 +8,6 @@ languages like Java, HTML and CSS. I also work on increasing my knowledge throug
 courses like MATLAB and also improving on hardware programming using Raspberry PI. I practise competitive programming using C/C++/Python
 in hackerrank to be better equiped for the future.
 
-__<h4>You can connect with me in the given links below</h4>__
+:point_down: __You can connect with me in the given links below__ :point_down:
 
 
