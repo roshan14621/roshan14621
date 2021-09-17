@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :smile:
 
 
 Hey, This is Roshan Rajesh. I'm a IIIrd year student pursuing Computer Science with specialization in IT in SRMIST, Kattankulathur Campus.
