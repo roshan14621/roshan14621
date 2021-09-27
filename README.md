@@ -11,3 +11,4 @@ in hackerrank to be better equiped for the future.
 :point_down: __You can connect with me in the given links below__ :point_down:
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roshan-rajesh-02ba4519b/)](https://www.linkedin.com/in/roshan-rajesh-02ba4519b/)
